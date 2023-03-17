@@ -25,11 +25,11 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg" alt="android_studio"  width="200" height="80">
 </br>
-<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" width="120" height="70">
+<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" width="130" height="60">
 </br>
-<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/languages/dart.svg" alt="dart" width="120" height="60">
+<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/languages/dart.svg" alt="dart" width="130" height="60">
 </br>
-<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/devices/pc.svg" alt="pc" width="120" height="60">
+<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/devices/pc.svg" alt="pc" width="130" height="60">
 </p>
 
 ### - 😄 Pronouns: 
