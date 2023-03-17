@@ -1,7 +1,7 @@
 # Hello! 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/IPseudoNemoI/IPseudoNemoI/blob/main/assets/hicat.gif">
+<img height="300" width="700" alt="GIF" align="center" src="https://github.com/IPseudoNemoI/IPseudoNemoI/blob/main/assets/hicat.gif">
 </div>
 
 </br>
@@ -10,7 +10,7 @@
 
 # About me
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/IPseudoNemoI/IPseudoNemoI/blob/main/assets/nlo.gif">
+<img height="300" width="500" alt="GIF" align="right" src="https://github.com/IPseudoNemoI/IPseudoNemoI/blob/main/assets/nlo.gif">
 
 ### - 🌱 I’m currently learning Android Developing:
 - Kotlin
@@ -23,10 +23,10 @@
 <p align="left">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg" alt="android_studio"  width="60" height="40">
-<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" width="60" height="40">
-<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/languages/dart.svg" alt="dart" width="60" height="40">
-<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/devices/pc.svg" alt="pc" width="60" height="40">
+<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg" alt="android_studio"  width="100" height="60">
+<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" width="100" height="60">
+<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/languages/dart.svg" alt="dart" width="100" height="60">
+<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/devices/pc.svg" alt="pc" width="100" height="60">
 </p>
 
 ### - 😄 Pronouns: 
@@ -48,7 +48,7 @@
 <p>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/IPseudoNemoI/IPseudoNemoI/blob/main/assets/weneedtotalk.gif">
+<img height="300" width="300" align="right" alt="GIF" src="https://github.com/IPseudoNemoI/IPseudoNemoI/blob/main/assets/weneedtotalk.gif">
 
 
 Contact me about anything!
