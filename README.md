@@ -24,13 +24,13 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg" alt="android_studio"  width="160" height="80">
+</br>
 <img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" width="120" height="80">
 <img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/languages/dart.svg" alt="dart" width="120" height="80">
 <img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/devices/pc.svg" alt="pc" width="120" height="80">
 </p>
 
 ### - 😄 Pronouns: 
-</br>
 
 <p align="left">
 
@@ -53,6 +53,9 @@
 
 Contact me about anything!
 
+</br>
+</br>
+
 <a href="mailto:nemoarkoni@mail.ru">
  <img align="left" alt="Gmail" width="170" hight="140" src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/social/gmail.svg"/>
 </a>
@@ -62,6 +65,9 @@ Contact me about anything!
 </p>
  
 
+</br>
+</br>
+</br>
 </br>
 </br>
 </br>
