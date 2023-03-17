@@ -1,7 +1,7 @@
 # Hello! 👋
 
 <div align="center">
-<img height="300" width="700" alt="GIF" align="center" src="https://github.com/IPseudoNemoI/IPseudoNemoI/blob/main/assets/hicat.gif">
+<img height="450" width="700" alt="GIF" align="center" src="https://github.com/IPseudoNemoI/IPseudoNemoI/blob/main/assets/hicat.gif">
 </div>
 
 </br>
@@ -10,7 +10,7 @@
 
 # About me
 
-<img height="300" width="500" alt="GIF" align="right" src="https://github.com/IPseudoNemoI/IPseudoNemoI/blob/main/assets/nlo.gif">
+<img height="600" width="500" alt="GIF" align="right" src="https://github.com/IPseudoNemoI/IPseudoNemoI/blob/main/assets/nlo.gif">
 
 ### - 🌱 I’m currently learning Android Developing:
 - Kotlin
@@ -23,10 +23,10 @@
 <p align="left">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg" alt="android_studio"  width="100" height="60">
-<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" width="100" height="60">
-<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/languages/dart.svg" alt="dart" width="100" height="60">
-<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/devices/pc.svg" alt="pc" width="100" height="60">
+<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg" alt="android_studio"  width="120" height="80">
+<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" width="120" height="80">
+<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/languages/dart.svg" alt="dart" width="120" height="80">
+<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/devices/pc.svg" alt="pc" width="120" height="80">
 </p>
 
 ### - 😄 Pronouns: 
@@ -35,7 +35,7 @@
 <p align="left">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/pronouns/hehim.svg" alt="he_him"  width="60" height="40">
+<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/pronouns/hehim.svg" alt="he_him"  width="120" height="80">
 
 </p>
 
@@ -67,10 +67,12 @@ Contact me about anything!
 </br>
 </br>
 </br>
+</br>
+</br>
 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark"/>
+    <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=IPseudoNemoI&show_icons=true&theme=onedark"/>
   </a>
 </p>
