@@ -23,7 +23,7 @@
 <p align="left">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg" alt="android_studio"  width="200" height="80">
+<img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg" alt="android_studio"  width="200" height="60">
 </br>
 <img src="https://github.com/IPseudoNemoI/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" width="130" height="60">
 </br>
